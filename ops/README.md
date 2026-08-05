@@ -2,8 +2,10 @@
 
 Vendors, account inventory, and runbooks.
 
-Suggested files:
+| File | Purpose |
+|------|---------|
+| [accounts.md](accounts.md) | Domains, Cloudflare, GitHub, email (who owns what; no passwords) |
+| [vendors.md](vendors.md) | Gear ladder, integrations, MSP tooling candidates |
+| `runbook-*.md` | How to deploy, rotate access, handle incidents (add as needed) |
 
-- `accounts.md` — domains, Cloudflare, GitHub, email (who owns what; no passwords)
-- `vendors.md` — tools and SaaS we pay for
-- `runbook-*.md` — how to deploy, rotate access, handle incidents
+Suggested future runbooks: `runbook-sunday-p1.md`, `runbook-customer-offboarding.md`, `runbook-dns-hosting.md`.
