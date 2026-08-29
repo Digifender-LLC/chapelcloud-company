@@ -13,7 +13,7 @@ ChapelCloud is a **family-owned**, Christian-operated company that serves church
 
 1. **SaaS** — hosting, giving/donations, bookkeeping, and integrations (primary year-1 wedge)
 2. **Remote Managed IT (MSP)** — network, security systems, monitoring, volunteer training
-3. **Hardware** — NDI production appliances and e-paper displays (year-2 emphasis; design/prep only in year 1)
+3. **Hardware** — campus display management and e-paper displays (year-2 emphasis; design/prep only in year 1)
 
 We are **pre-formation**, bootstrapping with **zero outside capital**. Year-1 success is reputation and trust in the church community, covering operating costs, and starting a **conversion flywheel** across offers — not building a Tithely competitor or flying nationwide for campus renovations.
 
@@ -104,6 +104,8 @@ We do **not** win year 1 by out-featuring national ChMS platforms. We win by tru
 |---------|-----------------|
 | Website hosting | Managed hosting for church/nonprofit sites (leverage Cloudflare / existing stack) |
 | Giving / donations | Integrate proven processors and giving partners; we manage setup, branding, and support handoff |
+| Live streaming & restream | Restream to site and social platforms; partner/integrate before build |
+| Video archive & podcast | Long-term storage, podcast feeds, transcription for accessibility and study |
 | Bookkeeping | Integrate or advise on fund accounting tools; own ledger product only when justified |
 | Integrations | Catalog of preferred tools; ChapelCloud as the glue and steward |
 | Platform (build) | Scaffold only: orgs, auth, billing hooks, device registry — modules that create MSP stickiness |
@@ -128,7 +130,7 @@ Detail: [brief-msp.md](../product/brief-msp.md)
 
 ### 5.3 Hardware (later)
 
-- NDI production appliances — portal config + monitoring
+- Campus display management — live production video, cloud-fed media, display control (e.g. CEC), optional casting; portal config + monitoring
 - E-paper room / wayfinding displays
 
 Year 1: architecture notes, vendor research, customer discovery only. Stock/resell later mainly for existing customers; mostly project procurement.

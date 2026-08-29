@@ -8,7 +8,7 @@ Related: [gtm.md](gtm.md) · [../product/brief-msp.md](../product/brief-msp.md) 
 
 ## Why
 
-The live site today markets **Software** (giving, hosting, bookkeeping) and **Hardware** (NDI, e-paper). Year-1 differentiation also includes **remote Managed IT, security systems, and volunteer training**. The site should say so without promising travel or campus renovations.
+The live site today markets **Software** (giving, hosting, bookkeeping) and **Hardware** (campus displays, e-paper). Year-1 differentiation also includes **remote Managed IT, security systems, and volunteer training**. The site should say so without promising travel or campus renovations.
 
 ---
 

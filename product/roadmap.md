@@ -24,7 +24,7 @@ Related: [brief-saas.md](brief-saas.md) · [brief-msp.md](brief-msp.md) · [brie
 ## Later (year 2+)
 
 - [ ] Travel-eligible projects and full campus network renovations
-- [ ] NDI production boxes — portal config + monitoring
+- [ ] Campus display appliances — portal config, media, CEC/control, casting options
 - [ ] E-paper room displays
 - [ ] Deeper owned SaaS modules only where integrations fail the mission
 - [ ] On-site install partners under ChapelCloud design

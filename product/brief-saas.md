@@ -17,6 +17,10 @@ Provide cloud tools and **integrations** that churches and ministries actually n
 |-------|----------|----------------|
 | Website hosting | Managed hosting (Cloudflare Pages / adjacent stack); uptime and stewardship support | First nonprofit site live |
 | Giving / donations | Integrate reputable processors / giving platforms; we configure, brand, train | Donations flowing; admin can operate |
+| Live streaming & restream | Restream to church site and social platforms; integrate proven streaming partners | Live + social destinations working; team can operate |
+| Long-term video storage | Durable sermon/event archives with clear stewardship and access | Archives usable by staff; retention policy documented |
+| Podcast services | Hosting, feeds, and handoff for weekly teaching audio | Feed live; admin training done |
+| Transcription | Transcripts for accessibility, study, and search | Transcripts available for agreed services |
 | Bookkeeping | Advise + integrate fund-aware tools; do not build a full ledger yet | Clear recommendation path documented |
 | Integrations catalog | Written list of preferred tools and when we use them | Catalog exists and used in proposals |
 | Platform scaffolding | Orgs, auth, billing hooks, device registry (for future MSP/hardware stickiness) | Scaffold advances only as needed for delivery |
